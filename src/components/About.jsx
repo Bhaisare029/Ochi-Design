@@ -9,7 +9,7 @@ function About() {
         com­plex ideas, and hire great peo­ple.
       </h1>
 
-      <div className="w-full flex gap-5 pt-20 mt-20 border-t-[2px] border-[#a1b562] mt-20">
+      <div className="w-full flex gap-5 pt-20 mt-20 border-t-[2px] border-[#a1b562]">
         <div className="w-1/2 ">
           <h1 className="text-5xl text-black">Our Approach:</h1>
           <button className=" flex gap-10 items-center  text-start uppercase font-['Neue Montreal'] font-sm tracking-tighter px-7 py-3 bg-[#212121] mt-5 rounded-full text-white  ">
